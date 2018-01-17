@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="textButtonHome">Infos</string>
+    <string name="no_character_found"> No character found </string>
+    <string name="vehicules">Vehicules</string>
+    <string name="planets">Movies</string>
+    <string name="namecharacter">nameCharacter</string>
+    <string name="heightCharacter">heightCharacter</string>
+    <string name="masscharacter">massCharacter</string>
+    <string name="hair_colorcharacter">hair_colorCharacter</string>
+    <string name="skin_colorcharacter">skin_colorCharacter</string>
+    <string name="eye_colorcharacter">eye_colorCharacter</string>
+    <string name="birth_yearcharacter">birth_yearCharacter</string>
+    <string name="gendercharacter">genderCharacter</string>
+    <string name="characters">Characters</string>
+    <string name="no_movie_found">No planet found</string>
+    <string name="titlemovie">titleMovie</string>
+    <string name="planets_title">Planets</string>
+    <string name="valueorbitalperiod">valueOrbitalPeriod</string>
+    <string name="orbital_period">Orbital period</string>
+    <string name="rotation_period">Rotation period</string>
+    <string name="valuerotationperiod">valueRotationPeriod</string>
+    <string name="Diameter">Diameter</string>
+    <string name="Climate">Climate</string>
+    <string name="gravity">Gravity</string>
+    <string name="terrain">Terrain</string>
+    <string name="surface_water">Surface Water</string>
+    <string name="population">Population</string>
+    <string name="vehiculesname">Vehicles</string>
+    <string name="cost_in_credits">Cost</string>
+    <string name="cargo_capacity">Cargo capacity</string>
+    <string name="consumables">Consumables</string>
+    <string name="vehicle_class">Vehicle Class</string>
+    <string name="model">Model</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="length">Length</string>
+    <string name="max_atmosphering_speed">Max atmosphering speed</string>
+    <string name="crew">Crew</string>
+    <string name="passengers">Passengers</string>
+    <string name="movies">Movies</string>
+
+
+</resources>
